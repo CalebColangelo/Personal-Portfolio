@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(50, 53, 87);
+  margin: 0px;
+  height: 880px;
+  font-family: poppins;
+}
+
+
+#header {
+  background-color: rgba(77, 101, 129, 0.801);
+  color: rgba(255, 255, 255, 0.986);
+  margin-top: 0px;
+  padding: 40px;
+}
+
+#navDiv {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 160px;
+}
+
+.nav {
+  color: white;
+  display: inline-flex;
+  margin: 10px;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.nav:hover {
+text-decoration: underline;
+cursor: pointer;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  height: 60px;
+}
+
+#logo {
+  height: 70px;
+  position: relative;
+  bottom: 5px;
+  padding-left: 2%;
+  mix-blend-mode: multiply;
+}
+
+#insta {
+  height: 100px;
+  position: relative;
+  bottom: 18px;
+  mix-blend-mode: multiply;
+  padding-left: 1%;
+}
