@@ -1,0 +1,71 @@
+#contactMe {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#contactMeP {
+    background-color: #4d6582cc;
+    color: white;
+    border-radius: 3px;
+    padding: 30px;
+    height: 37%;
+    margin: 0, auto;
+    position: relative;
+    bottom: 90px;
+}
+
+#nameInput {
+    height: 30px;
+    width: 400px;
+    position: relative;
+    bottom: 10px;
+    left: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+#emailInput {
+    height: 30px;
+    width: 400px;
+    position: relative;
+    bottom: 75px;
+    left: 342px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+#messageInput {
+    height: 100px;
+    width: 500px;
+    position: relative;
+    left: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 66px;
+    color: black;
+    font-size: 20px;
+}
+
+#btn {
+    margin: auto;
+    display: block;
+    position: relative;
+    bottom: 50px;
+    height: 35px;
+    width: 75px;
+    color: white;
+    background-color: #4d6682cc;
+
+}
+
+#btn:active {
+    box-shadow: 0px 0px 3px 3px #4d8082cc;
+}
