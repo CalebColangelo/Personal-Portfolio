@@ -1,0 +1,70 @@
+.projectCards {
+    background-color: #4d6582cc;
+    text-align: center;
+    display: flex;
+    margin: 10px; 
+    padding: 5px;  
+    flex-basis: 40%;  
+    height: 25em;
+    position: relative;
+    bottom: 90px;
+}
+
+.projectCards:hover {
+    box-shadow: 0px 0px 6px 6px #4d8082;
+    flex-grow: 50%;
+}
+
+
+#cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+#bumsyst {
+    height: 16em;
+}
+
+#bumP {
+color: white;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+#readMeDiv {
+    align-items: center;
+    justify-content: center;
+}
+
+#readMeGen {
+height: 100%;
+width: 75%;
+position: relative;
+}
+
+#readMeP {
+    color: white;
+    padding-bottom: 45px;
+}
+
+#employeeP {
+    color: white;
+}
+
+#employeeImg {
+    height: 72%;
+    width: 55%;
+}
+
+#vehicleP {
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+#vehicleimg {
+    height: 60%;
+    width: 40%;
+}

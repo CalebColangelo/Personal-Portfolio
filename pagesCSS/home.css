@@ -16,6 +16,7 @@
 .homeDiv {
   position: relative;
   bottom: 90px;
+  height: 250px;
 }
 
 
@@ -27,10 +28,11 @@
 .images {
 
   height: 300px;
-  position: relative;
-  bottom: 400px;
+  /* position: relative;
+  bottom: 400px; */
   padding: 5px;
   border: 5px solid #4d6682cc;
+  margin-bottom: 50px;
 }
 
 .images:hover {

@@ -27,6 +27,10 @@ body {
     padding-right: 20px;
     font-size: 30px;
   }
+
+  #nav:focus {
+    text-decoration: underline white;
+  }
   
   a {
     color: inherit;
@@ -43,7 +47,7 @@ body {
     justify-content: center;
     flex-direction: row;
     height: 60px;
-  
+
   }
   
   #logo {

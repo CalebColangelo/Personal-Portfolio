@@ -9,13 +9,15 @@ export default function AboutMe() {
                 </p>
             </div>
             <form>
-            <input type="text" id='nameInput' placeholder="Your Name:"></input>
-            <input type="text" id='emailInput' placeholder="Your Email:"></input>
-            <div>
-            <textarea id='messageInput' placeholder="Your message to me:"></textarea>
-            </div>
-            <button id='btn'>Submit</button>
+                <input type="text" id='nameInput' placeholder="Your Name:" required></input>
+                <input type="email" id='emailInput' placeholder="Your Email:" required></input>
+
+                <div>
+                    <textarea id='messageInput' placeholder="Your message to me:" required></textarea>
+                </div>
+                <button id='btn'>Submit</button>
             </form>
         </>
     )
 }
+
