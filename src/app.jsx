@@ -16,7 +16,7 @@ function App() {
               <li className='nav'> <a href="/AboutMe">About Me</a> </li>
               <li className='nav'> <a href="/Portfolio">Portfolio</a> </li>
               <li className='nav'> <a href='/Contact'>Contact</a> </li>
-              <li className='nav'> <a target="_blank" href='https://drive.google.com/file/d/1pfaXida3Nuhf59StNnF99Ebez_vA1kQO/view?usp=sharing'>Resume</a> </li>
+              <li className='nav'> <a target="_blank" href='https://drive.google.com/file/d/1UpTTQ24OzwptLlIeMTPeYvL0o9pyj2-p/view?usp=sharing'>Resume</a> </li>
             </ul>
           </div>
         <Outlet />
