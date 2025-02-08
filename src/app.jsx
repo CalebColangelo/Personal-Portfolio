@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import '../pagesCSS/app.css'
+import './app.css'
 import Github from '../src/assets/images/GitHub Logo.png'
 import Linkedin from '../src/assets/images/LinkedIn Logo.png'
 import Instagram from '../src/assets/images/Instagram Logo.png'
