@@ -6,7 +6,7 @@ This is a personal portfolio for Caleb Colangelo, a front end web developer!
 
 ## Usage
 
-Navigate to my portfolio website by following the link here, to my deployed application:
+Navigate to my portfolio website by following the link here, to my deployed application: https://colangeloportfolio.netlify.app/
 
 
 ## Features
